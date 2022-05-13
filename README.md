@@ -33,6 +33,6 @@ Link : https://www.youtube.com/watch?v=vYzXRrat9aE
 
 # Code in Place 2021 | Project Showcase:
 
-Serial number:1102
+- Serial number:1102
 Link: https://codeinplace.stanford.edu/2021/showcase#:~:text=Code%20in%20Place%202021%20%7C%20Project,fundamentals%20of%20programming%20in%20Python.
 
