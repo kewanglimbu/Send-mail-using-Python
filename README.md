@@ -11,7 +11,7 @@ send/attach -plain texts,images and pdf file)
 * Enter your specific app password: vztafptubxplssyn [note: Here put your generated password]
 
 ![Specific app password](img.PNG) 
-*Screenshot of Gnerated app password.*
+*Screenshot of Generated app password.*
 
 * Enter Gmail Id you want to send: example@gmail.com
 * Enter your mail subject : Internship
@@ -23,7 +23,7 @@ For example: note.pdf,kewang_cv.pdf,document.pdf
 
 * Filename:hello.pdf
 
- {}
+ - {}
 * Sucessfully email send
 
 
