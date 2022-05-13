@@ -1,0 +1,2 @@
+The MIMEultipart() message accepts parameters in the form of RFC5233-style key/value pairs,
+which are stored in a dictionary and passed to the .add_header method of the Message base class.
