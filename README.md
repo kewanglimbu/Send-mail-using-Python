@@ -8,7 +8,7 @@ send/attach -plain texts,images and pdf file)
 # Steps
 
 * Enter your Gmail Id :example123@gmail.com
-* Enter your specific app password: vztafptubxplssyn [note: Here put your generated password]
+* Enter your specific app password: vztafptubxplssyn *[note: Here put your generated password]*
 
 ![Specific app password](img.PNG) 
 *Screenshot of Generated app password.*
