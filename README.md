@@ -19,11 +19,11 @@ send/attach -plain texts,images and pdf file)
 
 * Enter filname of pdf file.
 For example: note.pdf,kewang_cv.pdf,document.pdf
->>>Filename:document.pdf
+- >>>Filename:document.pdf
 
 * Filename:hello.pdf
 
-* {}
+ {}
 * Sucessfully email send
 
 
