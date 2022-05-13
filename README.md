@@ -7,25 +7,25 @@ send/attach -plain texts,images and pdf file)
 
 # Steps
 
-Enter your Gmail Id :example123@gmail.com
-Enter your specific app password: vztafptubxplssyn [note: Here put your generated password]
+> Enter your Gmail Id :example123@gmail.com
+> Enter your specific app password: vztafptubxplssyn [note: Here put your generated password]
 
 ![Specific app password](img.PNG) 
 *Screenshot of Gnerated app password.*
 
-Enter Gmail Id you want to send: example@gmail.com
-Enter your mail subject : Internship
-Enter your mail message : I am	pleased	to confirm your	acceptance of an internship as	web developer with XYZ company . Please see attached pdf for more detail.
+> Enter Gmail Id you want to send: example@gmail.com
+> Enter your mail subject : Internship
+> Enter your mail message : I am	pleased	to confirm your	acceptance of an internship as	web developer with XYZ company . Please see attached pdf for more detail.
 
-Enter filname of pdf file.
+> Enter filname of pdf file.
 For example: note.pdf,kewang_cv.pdf,document.pdf
 >>>Filename:document.pdf
 
-Filename:hello.pdf
+> Filename:hello.pdf
 
-{}
-Sucessfully email send
-'''
+> {}
+> Sucessfully email send
+
 
 # Youtube Video
 
